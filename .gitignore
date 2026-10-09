@@ -1,0 +1,24 @@
+# Build output
+*.exe
+*.o
+*.obj
+*.out
+bin/
+obj/
+
+# Code::Blocks local files
+*.layout
+*.depend
+*.cbp.bak
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editors / OS
+.vscode/*
+!.vscode/tasks.json
+.DS_Store
+Thumbs.db
+*.zip
